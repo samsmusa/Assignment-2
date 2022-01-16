@@ -298,6 +298,11 @@ footer {
     text-align: center;
     margin: 2px 2px;
 }
+.footer p{
+    color: #6C6C6C;
+    margin: 0 0 5px 0;
+    font-weight: 800;
+}
 
 .footer-icon button{
     height: 45px;
