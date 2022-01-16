@@ -194,8 +194,7 @@ strong {
     flex-direction: row-reverse;
     align-items: end;
     white-space: pre;
-    /* justify-content: right;
-    align-items: right; */
+    
 }
 .see-more a{
     text-decoration: none;
